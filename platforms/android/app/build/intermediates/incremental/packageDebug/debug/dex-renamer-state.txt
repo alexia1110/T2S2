@@ -1,0 +1,4 @@
+#Tue Jun 12 21:27:04 CLT 2018
+base.0=/Users/eliana.alexia/Desktop/trabajo/EarthQuake/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/eliana.alexia/Desktop/trabajo/EarthQuake/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
